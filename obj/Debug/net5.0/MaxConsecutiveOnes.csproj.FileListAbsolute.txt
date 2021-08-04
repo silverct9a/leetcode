@@ -1,0 +1,15 @@
+/Users/kimanigopaul/Projects/LeetcodeLearn/Arrays/MaxConsecutiveOnes/bin/Debug/net5.0/MaxConsecutiveOnes.deps.json
+/Users/kimanigopaul/Projects/LeetcodeLearn/Arrays/MaxConsecutiveOnes/bin/Debug/net5.0/MaxConsecutiveOnes.runtimeconfig.json
+/Users/kimanigopaul/Projects/LeetcodeLearn/Arrays/MaxConsecutiveOnes/bin/Debug/net5.0/MaxConsecutiveOnes.runtimeconfig.dev.json
+/Users/kimanigopaul/Projects/LeetcodeLearn/Arrays/MaxConsecutiveOnes/bin/Debug/net5.0/MaxConsecutiveOnes.dll
+/Users/kimanigopaul/Projects/LeetcodeLearn/Arrays/MaxConsecutiveOnes/bin/Debug/net5.0/ref/MaxConsecutiveOnes.dll
+/Users/kimanigopaul/Projects/LeetcodeLearn/Arrays/MaxConsecutiveOnes/bin/Debug/net5.0/MaxConsecutiveOnes.pdb
+/Users/kimanigopaul/Projects/LeetcodeLearn/Arrays/MaxConsecutiveOnes/obj/Debug/net5.0/MaxConsecutiveOnes.csprojAssemblyReference.cache
+/Users/kimanigopaul/Projects/LeetcodeLearn/Arrays/MaxConsecutiveOnes/obj/Debug/net5.0/MaxConsecutiveOnes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kimanigopaul/Projects/LeetcodeLearn/Arrays/MaxConsecutiveOnes/obj/Debug/net5.0/MaxConsecutiveOnes.AssemblyInfoInputs.cache
+/Users/kimanigopaul/Projects/LeetcodeLearn/Arrays/MaxConsecutiveOnes/obj/Debug/net5.0/MaxConsecutiveOnes.AssemblyInfo.cs
+/Users/kimanigopaul/Projects/LeetcodeLearn/Arrays/MaxConsecutiveOnes/obj/Debug/net5.0/MaxConsecutiveOnes.csproj.CoreCompileInputs.cache
+/Users/kimanigopaul/Projects/LeetcodeLearn/Arrays/MaxConsecutiveOnes/obj/Debug/net5.0/MaxConsecutiveOnes.dll
+/Users/kimanigopaul/Projects/LeetcodeLearn/Arrays/MaxConsecutiveOnes/obj/Debug/net5.0/ref/MaxConsecutiveOnes.dll
+/Users/kimanigopaul/Projects/LeetcodeLearn/Arrays/MaxConsecutiveOnes/obj/Debug/net5.0/MaxConsecutiveOnes.pdb
+/Users/kimanigopaul/Projects/LeetcodeLearn/Arrays/MaxConsecutiveOnes/obj/Debug/net5.0/MaxConsecutiveOnes.genruntimeconfig.cache
